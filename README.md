@@ -26,5 +26,5 @@ A quick game of Tic-Tac-Toe you can play in any browser. Two local players click
 
 ### 1 · Clone the repo
 ```bash
-git clone https://github.com/YOUR-USERNAME/cs81-module12-finalproject.git
+git clone https://github.com/Azemoytin/cs81-module12-finalproject/edit/main/README.md
 cd cs81-module12-finalproject
