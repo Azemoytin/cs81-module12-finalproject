@@ -32,7 +32,7 @@ npm run dev
 open the local host and have fun!
 ```
 ### How to play
-One person plays as `X` while another person plays as `O`
-Get three of your letter in a row and you win
-If spaces run out and no one has won the game, the game will result in a draw
+One person plays as `X` while another person plays as `O`. 
+Get three of your letter in a row and you win. 
+If spaces run out and no one has won the game, the game will result in a draw. 
 Restart and try to win!
